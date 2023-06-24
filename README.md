@@ -5,5 +5,3 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robotmania2" alt="robotmania2" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robotmania2&show_icons=true&locale=en&layout=compact" alt="robotmania2" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robotmania2&show_icons=true&theme=dark&title_color=ffffff&text_color=4c32a9&hide_border=true&locale=en" alt="robotmania2" /></p>
